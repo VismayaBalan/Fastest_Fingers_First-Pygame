@@ -20,7 +20,11 @@ Once the game is over, the player's final score is displayed on the screen, and 
 ## Libraries used
 Pygame
 ## How to configure
-To configure the game, you need to have Python and Pygame installed on your computer. You can download Python from the official website (https://www.python.org/downloads/) and Pygame can be installed using pip.
+1) Clone this repo                                                                                                     
+2) open terminal on the repo folder and run - python main.py                   
+3)  Python and Pygame Installation                                   
+     *) Install Python 3.9 or higher from python.org.
+     *)Install Pygame by running the following command in your terminal: "pip install pygame"
 ## How to Run
 you can run the game by opening a command prompt or terminal, navigating to the directory where the code is saved, and running the following command:
  python fastest_fingers_first.py

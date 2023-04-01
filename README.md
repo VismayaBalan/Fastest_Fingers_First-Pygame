@@ -3,10 +3,10 @@
 
 
 # Fastest Fingers First
-Long Description about project. This project do that. This project is awesome...
+Fastest Fingers First is game developed using pygame.In this game the player has to enter the letter that is falling downwards by correctly typing the letter in keybord.The score will be increased by one point after 
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Vismaya B  -  https://github.com/VismayaBalan
+2. Rishikesh K V - https://github.com/rishi9808
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?

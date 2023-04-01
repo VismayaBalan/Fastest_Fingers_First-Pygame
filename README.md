@@ -2,7 +2,7 @@
 
 
 
-# Project Name
+# Fastest Fingers First
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Name [Embed personal github URL]
